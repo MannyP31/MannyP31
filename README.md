@@ -14,7 +14,7 @@
 -<a href = "https://www.instagram.com/manisha_parichha/"><img src="https://img.icons8.com/color/45/000000/instagram-new.png"/></a>
 -<a href = "https://www.facebook.com/angel.myra.908"><img src="https://img.icons8.com/fluent/48/000000/facebook-new.png"/></a>
     
-- <b>😄 Pronouns: She/Her🎀</b>
+- <b>😄 Pronouns: She/Her🎀</b><br>
 -<b> ⚡ Fun fact: Trynna give a surface touch to ML and yeah imma workaholic indeed😋.</b>
 
 
