@@ -1,8 +1,8 @@
-### Hi there peeps👋 <br>I'm Manisha</br>
+### Hi there peeps👋 <br>It's Manisha🍕</br>
     
     
   
-- 🔭 I’m currently tryin' to gather information regarding all the stuffs within my reach❤.
+- <b>🔭 I’m currently tryin' to gather information regarding all the stuffs within my reach❤.</b>
 - 🌱 I’m currently learning java and contents regarding web development💻.
 - 👯 I’m looking to collaborate on ideas based on data structures and algorithms📖.
 - 💬 Ask me about java☕
