@@ -1,5 +1,5 @@
-### Hi there peeps👋 
-    I'm Manisha🍕
+### Hi there peeps👋 <br>I'm Manisha</br>
+    
     
   
 - 🔭 I’m currently tryin' to gather information regarding all the stuffs within my reach❤.
