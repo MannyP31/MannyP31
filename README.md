@@ -15,7 +15,7 @@ This is Manisha here and I am currently pursuing Bachelors degree from SOA unive
 -<a href = "https://www.facebook.com/angel.myra.908"><img src="https://img.icons8.com/fluent/48/000000/facebook-new.png"/></a></p>
     
 - <b><h2>😄 Pronouns: She/Her🎀</h2></b>
-- <b><h2> ⚡ Fun fact: Trynna give a surface touch to ML and yeah imma workaholic indeed😋.</h2></b>
+- <b><h2> ⚡ Fun fact: Yeah imma workaholic indeed😋.</h2></b>
 
 
 
