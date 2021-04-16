@@ -2,7 +2,7 @@
     
     
   
-- <b><h2>🔭 I’m currently tryin' to gather information regarding all the stuffs within my reach❤.</h2></b>
+- <b><h2>🔭 I’m tryin' to gather information regarding all the stuffs within my reach❤.</h2></b>
 - <b><h2>🌱 I’m currently learning java and contents regarding web development💻.</h2></b>
 - <b><h2>👯 I’m looking to collaborate on ideas based on data structures and algorithms📖.</h2></b>
 - <b><h2>💬 Ask me about java☕</h2></b> 
