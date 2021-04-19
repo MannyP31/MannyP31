@@ -3,10 +3,10 @@
     
     
   
-- <b><h2>🔭 I’m tryin' to gather information regarding all the stuffs within my reach❤.</h2></b>
-- <b><h2>💛For the timing , I'm just craving to learn javascript.✨</h2></b>
-- <b><h2>🌱 I’m currently learning java and contents regarding web development💻.</h2></b>
-- <b><h2>👯 I’m looking to collaborate on ideas based on data structures and algorithms📖.</h2></b>
+- <b><h2>🔭 I’m tryin' to gather information regarding all the stuffs within my reach❤</h2></b>
+- <b><h2>💛For the timing , I'm just craving to learn javascript✨</h2></b>
+- <b><h2>🌱 I’m currently learning java and contents regarding web development💻</h2></b>
+- <b><h2>👯 I’m looking to collaborate on ideas based on data structures and algorithms📖</h2></b>
 - <b><h2>💬 Ask me about java☕</h2></b> 
 - <b> <h2>📫 How to reach me: </h2></b>
 <p align='center'>
@@ -16,7 +16,7 @@
 -<a href = "https://www.facebook.com/angel.myra.908"><img src="https://img.icons8.com/fluent/48/000000/facebook-new.png"/></a></p>
     
 - <b><h2>😄 Pronouns: She/Her🎀</h2></b>
-- <b><h2> ⚡ Fun fact: Yeah I'm workaholic indeed😋.</h2></b>
+- <b><h2> ⚡ Fun fact: Yeah I'm workaholic indeed😋</h2></b>
 
 ## ⚙ Statistics and Languages 
 <img width="50%" src="https://github-readme-stats.vercel.app/api?username=MannyP31&show_icons=true&theme=tokyonight"><img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MannyP31&layout=compact&theme=tokyonight"> <br>
