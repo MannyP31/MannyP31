@@ -1,5 +1,5 @@
 <p><b><h1>Hi peeps<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1></b></p><br>
-<h2>🖤This is Manisha here and I am currently pursuing Bachelors degree from SOA university(ITER),Bhubaneswar. My hobbies are photography,drawing and playing football. I am greatly interested in learning Cyber Security . I am enthusiastically looking forward to contribute to open source projects through Github.🖤</h2><br>
+<h2>🖤This is Manisha here and I am currently pursuing Bachelor's degree from SOA university(ITER),Bhubaneswar. My hobbies are photography,drawing and playing football. I am greatly interested in learning Cyber Security . I am enthusiastically looking forward to contribute to open source projects through Github.🖤</h2><br>
     
     
   
