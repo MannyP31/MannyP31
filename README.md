@@ -1,5 +1,8 @@
 <p><b><h1>Hi peeps<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1></b></p><br>
-<h2>🖤This is Manisha here and I am currently pursuing Bachelor's degree from SOA university(ITER),Bhubaneswar. My hobbies are photography,drawing and playing football. I am greatly interested in learning Cyber Security . I am enthusiastically looking forward to contribute to open source projects through Github.🖤</h2><br>
+<h2>🖤Hello !
+I'm Manisha Parichha and currently I'm pursuing BTech from SOA University (ITER), Bhubaneswar. 
+My hobbies include photography, drawing and playing football. 
+I am interested in learning stuffs reagrding web development, Cyber Security and I'm looking forward to contribute to open source projects through GitHub.🖤</h2><br>
     
     
   
