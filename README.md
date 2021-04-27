@@ -7,10 +7,8 @@ I am interested in learning stuffs reagrding web development, Cyber Security and
     
   
 - <b><h2>🔭 I’m tryin' to gather information regarding all the stuffs within my reach❤</h2></b>
-- <b><h2>💛For the timing , I'm just craving to learn javascript✨</h2></b>
+- <b><h2>💛For the timing , I'm just craving to learn javascript and node js✨</h2></b>
 - <b><h2>🌱 I’m currently learning java and contents regarding web development💻</h2></b>
-- <b><h2>👯 I’m looking to collaborate on ideas based on data structures and algorithms📖</h2></b>
-- <b><h2>💬 Ask me about java☕</h2></b> 
 - <b> <h2>📫 How to reach me: </h2></b>
 <p align='center'>
 -<a href = "https://www.linkedin.com/in/manisha-parichha-b528131bb/"><img src="https://img.icons8.com/cute-clipart/45/000000/linkedin.png"/></a>
