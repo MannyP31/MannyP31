@@ -2,7 +2,7 @@
 <h3>🖤Hello !
 I'm Manisha Parichha and currently I'm pursuing BTech from SOA University (ITER), Bhubaneswar. 
 My hobbies include photography, drawing and playing football. 
-I am interested in learning stuffs regarding web development, cyber Security and I'm enthusiatically looking forward to contribute to open source projects through GitHub.🖤</h3><br>
+I am interested in learning stuffs regarding web development, cyber Security and I'm enthusiastically looking forward to contribute to open source projects through GitHub.🖤</h3><br>
     
     
   
