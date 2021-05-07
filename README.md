@@ -7,9 +7,10 @@ I am interested in learning stuffs regarding web development, cyber Security and
     
   
 - <b><h3>🔭 I’m tryin' to gather information regarding all the stuffs within my reach❤</h3></b>
-- <b><h3>💛For the timing , I'm just craving to learn javascript and node js✨</h3></b>
+- <b><h3>💛For the timing , I'm just craving to learn javascript and react js✨</h3></b>
+- <b><h3>👬Lookin' forward to collaborate with web developers.👬</h3></b>
 - <b><h3>🌱 I’m currently learning java and contents regarding web development💻</h3></b>
-- <b><h3>🔍Trynaa work on python and c++ too</h2></b>
+- <b><h3>🔍Trynaa learn python too</h2></b>
 - <b> <h3>📫 How to reach me: </h3></b>
 <p align='center'>
 -<a href = "https://www.linkedin.com/in/manisha-parichha-b528131bb/"><img src="https://img.icons8.com/cute-clipart/45/000000/linkedin.png"/></a>
