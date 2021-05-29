@@ -2,7 +2,7 @@
 <h3>🖤Hello !
 I'm Manisha Parichha and currently I'm pursuing BTech from SOA University (ITER), Bhubaneswar. 
 My hobbies include photography, drawing and playing football. 
-I am interested in learning stuffs regarding web development, cyber Security and I'm enthusiastically looking forward to contribute to open source projects through GitHub.🖤</h3><br>
+I am interested in learning stuffs regarding web development, cyber security and I'm enthusiastically looking forward to contribute to open source projects through GitHub.🖤</h3><br>
     
     
   
@@ -10,7 +10,7 @@ I am interested in learning stuffs regarding web development, cyber Security and
 - <b><h3>💛For the timing , I'm just craving to learn javascript and react js✨</h3></b>
 - <b><h3>👬Lookin' forward to collaborate with web developers.👬</h3></b>
 - <b><h3>🌱 I’m currently learning java and contents regarding web development💻</h3></b>
-- <b><h3>🔍Trynaa learn python too</h2></b>
+- <b><h3>🔍Trynaa learn python too😋</h3></b>
 - <b> <h3>📫 How to reach me: </h3></b>
 <p align='center'>
 -<a href = "https://www.linkedin.com/in/manisha-parichha-b528131bb/"><img src="https://img.icons8.com/cute-clipart/45/000000/linkedin.png"/></a>
