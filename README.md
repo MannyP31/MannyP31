@@ -19,7 +19,7 @@ I am interested in learning stuffs regarding web development, cyber security and
 -<a href = "https://www.facebook.com/angel.myra.908"><img src="https://img.icons8.com/fluent/48/000000/facebook-new.png"/></a></p>
     
 - <b><h3>😄 Pronouns: She/Her🎀</h3></b>
-- <b><h3> ⚡ Fun fact: Yeah I'm workaholic indeed😋</h3></b>
+- <b><h3> ⚡ Fun fact: Too lazy for hardcore coding😥</h3></b>
 
 ## ⚙ Statistics and Languages 
 <img width="50%" src="https://github-readme-stats.vercel.app/api?username=MannyP31&show_icons=true&theme=tokyonight"><img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MannyP31&layout=compact&theme=tokyonight"> <br>
